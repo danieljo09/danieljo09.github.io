@@ -1,2 +1,2 @@
-# Bootstrap
-## Bootstrap Assignment for CECS 105H
+# Personal Website
+## Made with Bootstrap
